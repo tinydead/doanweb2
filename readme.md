@@ -2,6 +2,7 @@ This is doanweb2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Quan them
 Togashi Yuuta
 thanh them
@@ -18,3 +19,5 @@ Quan them
 thanh them
 quan them lan 2
 >>>>>>> parent of 5ccc50c (Revert "QUan them lan 1")
+=======
+>>>>>>> parent of ea73082 (QUan them lan 1)
